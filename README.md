@@ -1,2 +1,8 @@
 > [!NOTE]
 > Enter a playlist url and it downloads all the videos in it as songs
+
+# Example Package
+
+This is a simple example package. You can use
+[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
