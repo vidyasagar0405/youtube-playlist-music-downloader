@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "yt-music-down"
 dynamic = ["version"]
-description = ''
+description = 'A tool to download music playlists from youtube'
 readme = "README.md"
 requires-python = ">=3.8"
 license = "MIT"
