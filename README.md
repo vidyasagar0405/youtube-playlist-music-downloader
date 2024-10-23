@@ -1,8 +1,21 @@
-> [!NOTE]
-> Enter a playlist url and it downloads all the videos in it as songs
+# yt music down
 
-# Example Package
+[![PyPI - Version](https://img.shields.io/pypi/v/yt-music-down.svg)](https://pypi.org/project/yt-music-down)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/yt-music-down.svg)](https://pypi.org/project/yt-music-down)
 
-This is a simple example package. You can use
-[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+-----
+
+## Table of Contents
+
+- [Installation](#installation)
+- [License](#license)
+
+## Installation
+
+```console
+pip install yt-music-down
+```
+
+## License
+
+`yt-music-down` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
